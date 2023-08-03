@@ -144,5 +144,4 @@ cython_debug/
 # Editor junk
 .vscode/settings.json
 .*.sw?
-
 /target
